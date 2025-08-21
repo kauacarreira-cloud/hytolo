@@ -309,7 +309,7 @@ body {
     
     .sidebar {
         flex-direction: row;
-        width: 250px;
+        width: 500px;
         justify-content: center;
     }
     
